@@ -1,0 +1,477 @@
+{
+  "_meta": {
+    "description": "企业官网对标案例库。种子条目来自公开设计榜单初选，verified=false 表示尚未用浏览器逐条复核，首次对标签引前按 gallery-guide.md 打开复核并更新字段。",
+    "index": "按 industry → site_type → style 检索"
+  },
+  "entries": [
+    {
+      "id": "ref-001",
+      "name": "Stripe",
+      "url": "https://stripe.com",
+      "industry": "AI / 软件 / SaaS / 互联网",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#635BFF",
+        "secondary": "#0A2540",
+        "accent": "#635BFF",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "现代科技 Tech / Dark",
+      "style_accent": "企业简约扁平",
+      "layout": "bento",
+      "motion": "micro",
+      "strengths": [
+        "靛蓝紫渐变光效首屏克制高级",
+        "产品能力用卡片网格拆分，CTA 清晰",
+        "开发者文档与获客路径并存"
+      ],
+      "avoid": [
+        "渐变光效勿铺满整站，内页保持干净"
+      ],
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-002",
+      "name": "Vercel",
+      "url": "https://vercel.com",
+      "industry": "AI / 软件 / SaaS / 互联网",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#000000",
+        "secondary": "#666666",
+        "accent": "#FFFFFF",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "极简留白",
+      "style_accent": "现代科技",
+      "layout": "grid",
+      "motion": "micro",
+      "strengths": [
+        "黑白单色+大量留白，排版即界面",
+        "开发者导向的克制信息密度"
+      ],
+      "avoid": [
+        "纯黑底大面积使用需保证文字对比"
+      ],
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-003",
+      "name": "Apple",
+      "url": "https://www.apple.com",
+      "industry": "消费电子/品牌",
+      "site_type": "brand",
+      "palette": {
+        "primary": "#1D1D1F",
+        "secondary": "#86868B",
+        "accent": "#0066CC",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "品牌叙事 Brand Story",
+      "style_accent": "极简留白",
+      "layout": "story-scroll",
+      "motion": "micro",
+      "strengths": [
+        "全屏大图+大字主张的章节式叙事",
+        "产品陈列极简，焦点集中"
+      ],
+      "avoid": [
+        "大图首屏注意加载性能"
+      ],
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-004",
+      "name": "IBM",
+      "url": "https://www.ibm.com",
+      "industry": "科技/集团",
+      "site_type": "brand",
+      "palette": {
+        "primary": "#0F62FE",
+        "secondary": "#8D8D8D",
+        "accent": "#111111",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "商务稳重 Executive",
+      "style_accent": "企业简约扁平",
+      "layout": "grid",
+      "motion": "none",
+      "strengths": [
+        "集团多业务板块用网格整齐陈列",
+        "蓝白体系稳重可信，资讯与解决方案分区清晰"
+      ],
+      "avoid": [
+        "内容庞杂，中小站勿照搬层级深度"
+      ],
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-005",
+      "name": "Atlassian",
+      "url": "https://www.atlassian.com",
+      "industry": "AI / 软件 / SaaS / 互联网",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#0052CC",
+        "secondary": "#42526E",
+        "accent": "#FFAB00",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "企业简约扁平",
+      "style_accent": "",
+      "layout": "grid",
+      "motion": "micro",
+      "strengths": [
+        "产品矩阵清晰分组，试用 CTA 突出",
+        "蓝底白字+黄点强调，层级明快"
+      ],
+      "avoid": "",
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-006",
+      "name": "Notion",
+      "url": "https://www.notion.so",
+      "industry": "AI / 软件 / SaaS / 互联网",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#37352F",
+        "secondary": "#9B9A97",
+        "accent": "#2383E2",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "极简留白",
+      "style_accent": "活泼 Friendly",
+      "layout": "story-scroll",
+      "motion": "micro",
+      "strengths": [
+        "米白纸感底色亲切，功能故事化串联",
+        "截图演示自然融入叙事"
+      ],
+      "avoid": "",
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-007",
+      "name": "Xometry",
+      "url": "https://www.xometry.com",
+      "industry": "制造业 / 精密机械 / 工业",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#0057A8",
+        "secondary": "#5B6B7A",
+        "accent": "#F26522",
+        "background": "#F4F6F8",
+        "estimated": true
+      },
+      "style": "工业硬朗 Industrial",
+      "style_accent": "企业简约扁平",
+      "layout": "grid",
+      "motion": "micro",
+      "strengths": [
+        "把 CNC/钣金/注塑等复杂制造服务拆成清晰能力卡片",
+        "即时报价/询价入口前置，工程客户友好"
+      ],
+      "avoid": [
+        "冷硬色调勿过度，保留咨询温度"
+      ],
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-008",
+      "name": "John Deere",
+      "url": "https://www.deere.com",
+      "industry": "制造业 / 农业机械",
+      "site_type": "brand",
+      "palette": {
+        "primary": "#367C2B",
+        "secondary": "#4A4A4A",
+        "accent": "#FFDE00",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "品牌叙事 Brand Story",
+      "style_accent": "工业硬朗",
+      "layout": "story-scroll",
+      "motion": "micro",
+      "strengths": [
+        "品牌绿贯穿，大图展示真实作业场景",
+        "产品+金融/支持服务组合提供"
+      ],
+      "avoid": "",
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-009",
+      "name": "Accenture",
+      "url": "https://www.accenture.com",
+      "industry": "咨询/集团",
+      "site_type": "brand",
+      "palette": {
+        "primary": "#A100FF",
+        "secondary": "#181818",
+        "accent": "#A100FF",
+        "background": "#181818",
+        "estimated": true
+      },
+      "style": "现代科技 Tech / Dark",
+      "style_accent": "品牌叙事",
+      "layout": "grid",
+      "motion": "micro",
+      "strengths": [
+        "黑底大字高概念首屏，紫点缀记忆点强",
+        "案例/研究内容卡片网格丰富"
+      ],
+      "avoid": [
+        "暗色高概念只适合品牌型，营销获客型慎用"
+      ],
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-010",
+      "name": "HubSpot",
+      "url": "https://www.hubspot.com",
+      "industry": "AI / 软件 / SaaS / 互联网（营销软件）",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#FF7A59",
+        "secondary": "#33475B",
+        "accent": "#FF7A59",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "活泼 Friendly",
+      "style_accent": "企业简约扁平",
+      "layout": "grid",
+      "motion": "micro",
+      "strengths": [
+        "暖橙品牌色亲和，免费试用 CTA 贯穿全站",
+        "内容获客（博客/工具）与产品页联动"
+      ],
+      "avoid": [
+        "B2B 重工业慎用高饱和暖色"
+      ],
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-011",
+      "name": "Figma",
+      "url": "https://www.figma.com",
+      "industry": "AI / 软件 / SaaS / 互联网（设计工具）",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#1E1E1E",
+        "secondary": "#888888",
+        "accent": "#0D99FF",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "活泼 Friendly",
+      "style_accent": "企业简约扁平",
+      "layout": "bento",
+      "motion": "micro",
+      "strengths": [
+        "多彩插画+Bento 卡片，产品场景感强",
+        "协作能力可视化表达"
+      ],
+      "avoid": "",
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-012",
+      "name": "Supabase",
+      "url": "https://supabase.com",
+      "industry": "AI / 软件 / SaaS / 互联网（开源后端）",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#3ECF8E",
+        "secondary": "#1C1C1C",
+        "accent": "#3ECF8E",
+        "background": "#0F0F0F",
+        "estimated": true
+      },
+      "style": "现代科技 Tech / Dark",
+      "style_accent": "工业硬朗",
+      "layout": "bento",
+      "motion": "micro",
+      "strengths": [
+        "暗底+品牌绿点缀，开发者气质精准",
+        "产品功能 Bento 拆分，文档入口清晰"
+      ],
+      "avoid": "",
+      "verified": false,
+      "source_note": "公开榜单初选 2026-10"
+    },
+    {
+      "id": "ref-013",
+      "name": "迅捷兴（jxpcb）",
+      "url": "https://www.jxpcb.com/",
+      "industry": "制造业/PCB线路板",
+      "site_type": "brand",
+      "palette": {
+        "primary": "#244FA1",
+        "secondary": "#0A1E3D",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "estimated": false
+      },
+      "style": "现代科技 Tech / Dark",
+      "style_accent": "品牌叙事 Brand Story",
+      "layout": "story-scroll",
+      "motion": "micro",
+      "strengths": [
+        "全屏PCB芯片实景大图首屏+大字主张『高品质·定制化·快速交付』",
+        "产品按板型分类（高多层/HDI/厚铜/软硬结合/高频高速），应用领域按行业陈列",
+        "认证墙（ISO9001/IATF16949/ISO13485等）集中背书",
+        "上市公司设投资者关系专区，顶部留网上商城入口"
+      ],
+      "avoid": [
+        "品牌叙事层级重，纯获客小厂不必照搬投资者关系栏目",
+        "全屏大图首屏需注意加载性能"
+      ],
+      "verified": true,
+      "source_note": "用户投喂 2026-10-22 浏览器实测"
+    },
+    {
+      "id": "ref-014",
+      "name": "普林电路（sprintpcb）",
+      "url": "https://www.sprintpcb.com/",
+      "industry": "制造业/PCB线路板",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#065D33",
+        "secondary": "#FFFFFF",
+        "accent": "#065D33",
+        "background": "#FFFFFF",
+        "estimated": false
+      },
+      "style": "企业简约扁平",
+      "style_accent": "工业硬朗 Industrial",
+      "layout": "grid",
+      "motion": "micro",
+      "strengths": [
+        "『为什么选择我们』01-04编号服务承诺卡片（DFM成本优化/一对一客户经理/8D报告/定制物流包装）",
+        "8个行业方案卡片各写清工艺、认证与应用场景",
+        "右侧悬浮咨询轨（电话/微信/抖音/视频号）+右下二维码悬浮条，转化入口常驻"
+      ],
+      "avoid": [
+        "悬浮咨询入口偏多，避免过度打扰访客",
+        "深绿为其品牌色，不可直接照搬"
+      ],
+      "verified": true,
+      "source_note": "用户投喂 2026-10-22 浏览器实测"
+    },
+    {
+      "id": "ref-015",
+      "name": "捷嘉智造（pcba-ai）",
+      "url": "https://www.pcba-ai.com/",
+      "industry": "制造业/PCBA代工代料",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#29335D",
+        "secondary": "#111111",
+        "accent": "#F2993F",
+        "background": "#F5F6F8",
+        "estimated": true
+      },
+      "style": "现代科技 Tech / Dark",
+      "style_accent": "企业简约扁平",
+      "layout": "story-scroll",
+      "motion": "micro",
+      "strengths": [
+        "『AI+』包装四大方案（汽车/工控/医疗/消费），各列应用场景",
+        "全业务链流程图可视化：方案设计→PCB Layout→PCBA堆叠→嵌入式开发→测试→硬件调试",
+        "设备优势参数卡片（印刷精度±0.025mm/氮气回流焊/双AOI），用数据说话",
+        "右侧电话咨询/二维码常驻"
+      ],
+      "avoid": [
+        "自动弹出客服窗较打扰，不照搬",
+        "无H1语义标签，SEO隐患，不照搬",
+        "橙色只用于流程节点点缀"
+      ],
+      "verified": true,
+      "source_note": "用户投喂 2026-10-22 浏览器实测"
+    },
+    {
+      "id": "ref-016",
+      "name": "尤妙设计（UMIAO）",
+      "url": "https://www.umiao.cn/",
+      "industry": "互联网服务/设计建站（客户覆盖生物医药/半导体/新能源/装备制造）",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#7B5CF0",
+        "secondary": "#5B3DE0",
+        "accent": "#9B7CFF",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "现代科技 Tech / Dark",
+      "style_accent": "活泼 Friendly",
+      "layout": "story-scroll",
+      "motion": "micro",
+      "strengths": [
+        "首屏紫蓝渐变+笔记本/平板/手机 mockup 直接演示客户官网成品，『作品即说服』",
+        "首页『他们选择了与我们同行』客户 logo 墙做信任背书，案例页『我们用作品 回应每一个品牌的期待』主张句",
+        "案例列表页：3:2 大图卡片（品牌名+一句话标语）+ 行业分类筛选（生物医药/半导体/新能源/装备制造/外贸独立站/三维动画）+ 分页",
+        "案例卡片直接外链客户成品官网（2026-10 实测 20 个案例全部可点直达客户站），作品即证明，无需内部详情页",
+        "客户案例覆盖制造/装备/出口多元行业，制造客户做中文官网（产品分级导航）、出口客户做英文站（品牌故事+Get A Quote+认证信任模块）"
+      ],
+      "avoid": [
+        "紫蓝渐变是模板感强色系，B2B 重工业/制造厂不宜照搬",
+        "GSAP 滚动动画+视频背景有加载报错，轻量静态站慎用重动效",
+        "作品类 70+ 图，非作品展示行业无需此密度"
+      ],
+      "verified": true,
+      "source_note": "用户投喂 2026-10-24 浏览器实测（首页+案例页）"
+    },
+    {
+      "id": "ref-017",
+      "name": "互诺科技（HUNUO）",
+      "url": "https://www.hunuo.com/",
+      "industry": "互联网服务/网站建设（客户覆盖快消/医药/能源/制造/金融/教育）",
+      "site_type": "marketing",
+      "palette": {
+        "primary": "#165F9E",
+        "secondary": "#123A63",
+        "accent": "#F2A900",
+        "background": "#FFFFFF",
+        "estimated": true
+      },
+      "style": "企业简约扁平",
+      "style_accent": "商务大气",
+      "layout": "grid",
+      "motion": "none",
+      "strengths": [
+        "首屏蓝底『品牌成就品牌2026』主张 + 步步高/碧桂园/海尔/TCL/蓝月亮 logo 墙做客户信任背书",
+        "『我们拥有10000+品牌企业合作经验』数据条强化实力",
+        "全国热线 400 + 广州/深圳/东莞/佛山电话矩阵顶部常驻，转化路径极短",
+        "在线客服/微信扫码/QQ/返回顶部悬浮栏常驻（四通道咨询）",
+        "案例页 10 类筛选（集团品牌/产品展示/服务展示/企业官网/外贸出口/管理资讯/电商/小程序/微信/APP），案例卡片直接外链客户官网（2026-10 实测 66 个客户站可点直达）"
+      ],
+      "avoid": [
+        "53kf 在线客服窗会中途自动弹出跳转新窗口，极打扰，不照搬（改静止悬浮入口）",
+        "无 H1 语义标签，SEO 隐患",
+        "蓝色系偏模板化，B2B 制造厂可换更深的工业蓝"
+      ],
+      "verified": true,
+      "source_note": "用户投喂 2026-10-24 浏览器实测（首页+案例页）"
+    }
+  ]
+}

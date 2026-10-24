@@ -1,0 +1,22 @@
+{
+  "id": "ref-000",
+  "name": "{{站点/公司名}}",
+  "url": "https://example.com",
+  "industry": "{{对照 taxonomy.md 行业表}}",
+  "site_type": "marketing",
+  "palette": {
+    "primary": "#000000",
+    "secondary": "#000000",
+    "accent": "#000000",
+    "background": "#FFFFFF",
+    "estimated": true
+  },
+  "style": "{{主风格}}",
+  "style_accent": "",
+  "layout": "hero | bento | grid | story-scroll | carousel",
+  "motion": "none | micro | heavy",
+  "strengths": ["可借鉴点1（具体到模块）", "可借鉴点2"],
+  "avoid": ["不适配点"],
+  "verified": false,
+  "source_note": "收录日期；用户投喂/公开榜单"
+}
