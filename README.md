@@ -20,6 +20,18 @@
 - **响应式硬规**：PC 容器 1440px，手机端模块与屏幕边缘间距 ≥22px，内页必配 banner 背景图
 - **案例驱动**：内置案例库与案例学习档案（umiao 客户作品集 20 站、hunuo 案例页 66 站），对标学习真实成品站的设计模式
 
+## 效果展示
+
+用本工作流产出的真实官网（示例：本地装修公司营销获客站，配色三选一选定「温馨居家」）：
+
+| 桌面端整页 | 手机端整页 |
+|---|---|
+| ![桌面端整页](assets/screenshots/shot-desktop-full.jpg) | ![手机端整页](assets/screenshots/shot-mobile-full.jpg) |
+
+| 桌面端 Hero 轮播屏 | 手机端 Hero + 报价转化条 |
+|---|---|
+| ![桌面端 Hero](assets/screenshots/shot-desktop-hero.jpg) | ![手机端 Hero](assets/screenshots/shot-mobile-hero.jpg) |
+
 ## 工作流（7 步）
 
 | 步骤 | 内容 |
@@ -52,7 +64,8 @@ enterprise-site-builder/
     ├── gallery.json                  # 案例库（已收录 20+ 案例）
     ├── gallery.template.json         # 案例收录条目模板
     ├── site-brief.template.json      # 建站简报落盘模板
-    └── hero-carousel/hero-carousel.html  # 首页 Hero 轮播可复用模板
+    ├── hero-carousel/hero-carousel.html  # 首页 Hero 轮播可复用模板
+    └── screenshots/                  # 效果展示截图（README 引用）
 ```
 
 ## 快速开始
