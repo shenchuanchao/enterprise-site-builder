@@ -1,0 +1,64 @@
+{
+  "brief_version": "1.0",
+  "company": {
+    "name": "{{待补充：公司全称}}",
+    "industry": "{{行业，对照 taxonomy.md}}",
+    "business_note": "{{一句话业务/产品说明}}",
+    "founded_or_scale": ""
+  },
+  "site": {
+    "type": "marketing",
+    "market": "domestic",
+    "primary_goal": "lead",
+    "audience": "{{目标访客}}",
+    "language": "zh-CN",
+    "nav_menu": ["产品中心", "解决方案", "应用领域", "关于我们", "联系我们"]
+  },
+  "design": {
+    "style": "企业简约扁平",
+    "style_accent": "",
+    "brand_color": "",
+    "color_status": "pending",
+    "palette_candidates": [
+      { "name": "A 稳健商务", "primary": "", "secondary": "", "accent": "", "background": "", "mood": "" },
+      { "name": "B 现代科技", "primary": "", "secondary": "", "accent": "", "background": "", "mood": "" },
+      { "name": "C 亲和明快", "primary": "", "secondary": "", "accent": "", "background": "", "mood": "" }
+    ],
+    "palette": { "primary": "", "secondary": "", "accent": "", "background": "" },
+    "mood": ""
+  },
+  "quick_menu": {
+    "enabled": true,
+    "position": "right-middle",
+    "backTop": true,
+    "items": [
+      { "id": "call", "show": true, "label": "电话咨询" },
+      { "id": "wechat", "show": true, "label": "微信咨询" },
+      { "id": "quote", "show": true, "label": "获取报价" },
+      { "id": "email", "show": false, "label": "邮件联系" }
+    ]
+  },
+  "homepage_modules": [
+    { "order": 1, "name": "Hero", "layout": "左文右图", "source": "行业调研" }
+  ],
+  "pages": [
+    { "file": "products.html", "type": "list", "menu": "产品中心" },
+    { "file": "product-detail.html", "type": "detail", "menu": "产品中心" },
+    { "file": "about.html", "type": "about", "menu": "关于我们" },
+    { "file": "contact.html", "type": "contact", "menu": "联系我们" }
+  ],
+  "content": {
+    "products": [],
+    "cases": [],
+    "qualifications": [],
+    "news_or_articles": true,
+    "downloads": false
+  },
+  "conversion": {
+    "cta": "询盘表单",
+    "contact": { "phone": "{{待补充：电话}}", "email": "", "address": "", "wechat": "" }
+  },
+  "references": [],
+  "deliverable": "static-html",
+  "gaps": []
+}
